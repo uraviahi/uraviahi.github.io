@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uraviahi.github.io/sitemap_index.uraviahi
